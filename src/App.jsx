@@ -42,7 +42,7 @@ function App() {
                 />
             </div>
             <div className="copyright">
-                ©&nbsp;2024 - {new Date().getFullYear()}&nbsp;<a href="https://github.com/Yagasaki7K/app-youtube" target="_blank" rel="noreferrer">app-stream</a>&nbsp;by&nbsp;<a href="https://yagasaki.dev" target="_blank" rel="noreferrer">Yagasaki7K</a>&nbsp;<span>|</span>&nbsp;Todas as imagens são marcas registradas dos seus respectivos proprietários
+                ©&nbsp;2024 - {new Date().getFullYear()}&nbsp;<a href="https://github.com/Yagasaki7K/app-youtube" target="_blank" rel="noreferrer">app-youtube</a>&nbsp;by&nbsp;<a href="https://yagasaki.dev" target="_blank" rel="noreferrer">Yagasaki7K</a>&nbsp;<span>|</span>&nbsp;Todas as imagens são marcas registradas dos seus respectivos proprietários
             </div>
         </AppDetails>
     )
@@ -60,7 +60,7 @@ const AppDetails = styled.div`
 
     a {
         text-decoration: none;
-        color: var(--font-light);
+        color: var(--red);
         font-weight: bold;
     }
 
