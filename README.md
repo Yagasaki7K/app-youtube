@@ -4,15 +4,15 @@
 
 <p align="center">
    <a href="https://www.linkedin.com/in/andersonmarlon/">
-      <img alt="AndersonMarlon" src="https://img.shields.io/badge/-AndersonMarlon-613fa0?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="AndersonMarlon" src="https://img.shields.io/badge/-AndersonMarlon-ce1a19?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Yagasaki7K/app-youtube?color=613fa0">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Yagasaki7K/app-youtube?color=ce1a19">
 
   <a href="https://github.com/Yagasaki7K/app-youtube/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Yagasaki7K/app-youtube?color=613fa0">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Yagasaki7K/app-youtube?color=ce1a19">
   </a>
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-613fa0">
-  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/Yagasaki7K/app-youtube?color=613fa0" />
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-ce1a19">
+  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/Yagasaki7K/app-youtube?color=ce1a19" />
   <a href="https://twitter.com/yagasaki7k">
     <img src="https://img.shields.io/twitter/follow/medusajs.svg?label=Contact%20me%20at%20@Yagasaki7K" alt="Contact me at @Yagasaki7K" />
   </a>
